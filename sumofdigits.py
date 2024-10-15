@@ -2,6 +2,7 @@
 Author : Nandana Hasheed 
 DAte: 15-10-2024
 Python program to find the sum of digits 
+'''
 num=int(input("Enter number"))
 sum=0
 while(num>0):
